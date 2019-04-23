@@ -1,1 +1,5 @@
-#+TITLE:SPE2019, Assignment 1
+#+TITLE:Simulation and Performance Evaluation, Assignment 1
+- assignment_1.pdf :: Text of the assignment
+- secret.csv :: The message to decrypt
+- script.R :: The script to run 
+- others :: Sample files
